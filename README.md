@@ -16,3 +16,6 @@ Front and back of Vocabulary cards.
 
 Front and back of Targeted Sentences card.
 <img width="1412" alt="image" src="https://user-images.githubusercontent.com/100229664/159394586-c7da6b39-7fbb-4675-a9b1-e4dba843a0d7.png">
+
+Front of **Unscramble the sentence** cards.
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/100229664/159395962-7b689e9e-1020-4430-b99a-7c199aca312b.png">
