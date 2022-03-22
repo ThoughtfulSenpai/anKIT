@@ -11,8 +11,8 @@
 4. Templates for JLPT style exercises. (including the ones with the dreaded :tw-2b50:)
 
 
-Vertical word on the front
-<img width="1159" alt="image" src="https://user-images.githubusercontent.com/100229664/159392217-a4823319-5d93-44ee-a6ab-7fcde38876d0.png">
-Horizontal word on the back, with meaning
-<img width="1197" alt="image" src="https://user-images.githubusercontent.com/100229664/159392249-fda3abf0-b88e-41f5-8532-7fbdcf473c31.png">
+Front and back of Vocabulary cards.
+<img width="1336" alt="image" src="https://user-images.githubusercontent.com/100229664/159392841-47dd4708-6714-411b-a1e3-1dd5778a6f79.png">
 
+Front and back of Targeted Sentences card.
+<img width="1412" alt="image" src="https://user-images.githubusercontent.com/100229664/159394586-c7da6b39-7fbb-4675-a9b1-e4dba843a0d7.png">
