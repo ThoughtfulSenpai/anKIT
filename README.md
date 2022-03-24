@@ -1,6 +1,6 @@
 # anKIT
 
-# Details
+# Details (WIP: work in progress)
 **Collection of personal scripts, card templates and gists for anki** that I've put together from different sources and/or written myself. Most of these are scripts I found online and decided to tinker to fit my needs. Therefore, feel free to tinker these to **your** needs too.
 
 ## Overview
